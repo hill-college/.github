@@ -1,4 +1,4 @@
-![Hill College Logo - Large Stacked](https://images.clicktech.dev/Hill%20College%20-%20Large%20Banner%20Pile.png)
+![Hill College Logo - Large Stacked](logos/Hill College - Large Banner Pile.png)
 # Welcome to HILL COLLEGE GitHub Management
 We use GitHub to help us manage our online websites and make stuff happen.
 
