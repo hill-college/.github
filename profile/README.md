@@ -1,4 +1,5 @@
 ![Hill College Logo - Banner](https://github.com/hill-college/.github/blob/main/logos/HILL%20COLLEGE%20-%20BANNER%20LOGO.png)
+
 A FAKE online, independent, first-class education institution for young people to develop and be ready for their journey of the future.
 **Made by students, for students**
 
