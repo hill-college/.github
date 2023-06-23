@@ -1,8 +1,5 @@
 ![Hill College Logo - Banner](https://github.com/hill-college/.github/blob/main/logos/HILL%20COLLEGE%20-%20BANNER%20LOGO.png)
 
-A FAKE online, independent, first-class education institution **Made by students, for students**
-
-
 # Welcome to Hill College IT Services
 Hill College uses GitHub to manage and develop our online systems - such as the [MyCollege Portal](https://my.hillcollege.services)!
 
